@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mir Mubashir
-- 👀 I’m interested in Ethical hacking, web-designing.
-- 🌱 I’m currently learning web-designing
+- 👀 I’m interested in Ethical hacking and DataScience.
+- 🌱 I’m currently learning Data Science and Ethical hacking
 - 📫 How to reach me? ... Email: mubashirali12350@gmail.com
 
 <!---
