@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mir Mubashir
-- 👀 I’m interested in Ethical hacking and DataScience.
-- 🌱 I’m currently learning Data Science and Sale force
+- 👀 I’m interested in Software Quality Assurance.
+- 🌱 I’m currently learning Software Quality Assurance
 - 📫 How to reach me? ... Email: mubashirali12350@gmail.com
 
 <!---
